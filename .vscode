@@ -1,0 +1,74 @@
+{
+    "editor.fontFamily": "'Fira Code', 'monospace', monospace, 'Droid Sans Fallback'",
+    "workbench.colorTheme": "Tinacious Contrast",
+    "editor.fontLigatures": true,
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 0,
+    "editor.fontSize": 12,
+    "workbench.startupEditor": "newUntitledFile",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.tabSize": 4,
+    "eslint.alwaysShowStatus": true,
+    "prettier.disableLanguages": [
+        "js",
+    ],
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "python.pythonPath": "python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+        "--max-line-length=100",
+    ],
+    "pythonTestExplorer.testFramework": "unittest",
+    "cSpell.enableFiletypes": [
+        "asciidoc",
+        "c",
+        "cpp",
+        "csharp",
+        "css",
+        "git-commit",
+        "go",
+        "handlebars",
+        "haskell",
+        "html",
+        "jade",
+        "java",
+        "javascript",
+        "javascriptreact",
+        "json",
+        "jsonc",
+        "latex",
+        "less",
+        "markdown",
+        "php",
+        "plaintext",
+        "pug",
+        "python",
+        "restructuredtext",
+        "rust",
+        "scala",
+        "scss",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "yaml",
+        "yml"
+    ],
+    "openapi.securityAuditToken": "CiCbSgtTwRdVv/TzK2+XpfYY97msbWvO1n1/mJkwgk68sRIYGirqtep2I+iAcX3PAer712ZBuMJdMjnfGnEnPvOLVpSAJUVI8k153rRw9nufSGA0nWFIB5gO4in4AhQgWvbM0oMAOB/30oC6wOMK7Xo7zknMLVpXSSKeR4udWXSiXbPL0BMOxxjE3OE6xAhcnnIRLkWOIdYMVMi/8LXVfAnAFdbaDvqc44GB4kws4Q==",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "workbench.editor.labelFormat": "short",
+    "workbench.iconTheme": "ayu",
+    "editor.rulers": [
+        100
+    ],
+
